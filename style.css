@@ -12,6 +12,7 @@ body {
     box-shadow: 3px 3px 0px #ddd;
     width: 400px;
     height: 400px;
+    margin:10px;
 }
 #wrapper {
     display: flex;
