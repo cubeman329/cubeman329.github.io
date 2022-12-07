@@ -4,6 +4,7 @@ body {
     text-align:center;
     background:#121212;
     color:white;
+    transition: 0.2s;
 }
 .app {
     color:black;
